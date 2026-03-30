@@ -1,85 +1,23 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi, I'm Rahul 👋</h1>
-<h3 align="center">B.Tech AI/ML Student | Python & Machine Learning Enthusiast</h3>
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Hi, I'm Rahul</h1>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Python+Developer;Building+ML+Projects;Learning+Every+Day" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat&color=blue" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ About Me
 
-- 🎓 B.Tech student specializing in **Artificial Intelligence & Machine Learning**
-- 🐍 Strong interest in **Python, ML, and data-driven systems**
-- 🧠 Learning by building **real-world, practical projects**
-- ⚙️ Prefer **clean, simple, and efficient implementations**
-- 🚀 Focused on improving **core skills + consistency**
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Tools**
-- Python  
-- C / C++ (Basics)  
-- SQL  
-- Git & GitHub  
-
-**ML / Data**
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Scikit-learn  
-
-**Other**
-- Jupyter Notebook  
-- VS Code  
-
----
-
-## 📌 Current Focus
-
-- 📚 Strengthening **Python fundamentals**
-- 🤖 Building **Machine Learning mini-projects**
-- 🔍 Understanding ML concepts beyond theory
-- 🧩 Improving problem-solving and logic
-
----
-
-## 📂 Featured Projects
-
-- 🔐 **Fraud Detection (ML)**  
-  *Binary classification using Python & ML algorithms*
-
-- 📊 **Data Analysis Projects**  
-  *Exploratory analysis using Pandas & Matplotlib*
-
-- 🧠 **ML Practice Notebooks**  
-  *Concept-wise implementations & experiments*
-
-> More projects coming as I build consistently.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-- 💼 GitHub: [github.com/your-username](https://github.com/your-username)
-- 📫 Email: your-email@example.com
-
----
-
-<p align="center">
-  <i>"Build skills quietly. Let results speak."</i>
-</p>
+```yaml
+Name: Rahul
+Degree: B.Tech (AI / ML)
+Focus:
+  - Python
+  - Machine Learning
+  - Practical Projects
+Mindset: Build > Learn > Improve
